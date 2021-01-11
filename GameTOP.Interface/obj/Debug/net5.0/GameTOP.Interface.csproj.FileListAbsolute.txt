@@ -1,0 +1,12 @@
+C:\temp\ws-dotnet\GameTOP.Interface\bin\Debug\net5.0\GameTOP.Interface.deps.json
+C:\temp\ws-dotnet\GameTOP.Interface\bin\Debug\net5.0\GameTOP.Interface.dll
+C:\temp\ws-dotnet\GameTOP.Interface\bin\Debug\net5.0\ref\GameTOP.Interface.dll
+C:\temp\ws-dotnet\GameTOP.Interface\bin\Debug\net5.0\GameTOP.Interface.pdb
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.csprojAssemblyReference.cache
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.AssemblyInfo.cs
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.dll
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\ref\GameTOP.Interface.dll
+C:\temp\ws-dotnet\GameTOP.Interface\obj\Debug\net5.0\GameTOP.Interface.pdb
